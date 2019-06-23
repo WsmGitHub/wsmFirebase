@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "wsmFirebase"
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of Firebase.'
   s.homepage         = 'http://gitlab.lizhi.fm/iOSPods/Firebase'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
